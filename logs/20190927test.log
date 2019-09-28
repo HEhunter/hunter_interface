@@ -1,0 +1,457 @@
+2019-09-27 10:34:44,206-hunter-DEBUG-User Tom is loging
+2019-09-27 10:41:23,601-__main__-DEBUG-第1个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMzg0IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3MjQ4OTcsIm5iZiI6MTU2OTU1MjA5N30.Zjy9h9y_5_Ky2EVfXWnhNWsg_H2mRJPwFmsrc59F4NE",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 10:41:23,613-__main__-ERROR-第1接口测试通过
+2019-09-27 10:41:23,760-__main__-DEBUG-第2个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMzg1IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3MjQ4OTcsIm5iZiI6MTU2OTU1MjA5N30.0Hgj9W2i5vC9dANrHZFMVVN0-vcO7190uP8RTyLgjM8",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 10:41:23,774-__main__-ERROR-第2接口测试通过
+2019-09-27 10:41:23,923-__main__-DEBUG-第3个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyMzg2IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3MjQ4OTcsIm5iZiI6MTU2OTU1MjA5N30.ywoaq4PPIyya7bl3PQhXgSI92pMKj7aLyXOL4YUjOjI",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 10:41:23,926-__main__-INFO-第3接口测试失败
+2019-09-27 10:41:23,981-__main__-DEBUG-第4个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 10:41:23,995-__main__-ERROR-第4接口测试通过
+2019-09-27 10:41:24,075-__main__-DEBUG-第5个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 10:41:24,087-__main__-ERROR-第5接口测试通过
+2019-09-27 10:41:24,151-__main__-DEBUG-第6个接口的返回结果为：{
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-27 10:41:24,159-__main__-ERROR-第6接口测试通过
+2019-09-27 14:33:39,090-__main__-DEBUG-第1个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDA2IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3Mzg4MzIsIm5iZiI6MTU2OTU2NjAzMn0.6HRLLTjNBLOoWPS8WYo8nW9WcnbqYEM0WYCh71KI7ts",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 14:33:39,094-__main__-ERROR-第1接口测试通过
+2019-09-27 14:33:39,222-__main__-DEBUG-第2个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDA3IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3Mzg4MzIsIm5iZiI6MTU2OTU2NjAzMn0.gfw1-Izh_-Y4EREua7fGnDAjSf1VA_9tVLjpE_GooPY",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 14:33:39,226-__main__-ERROR-第2接口测试通过
+2019-09-27 14:33:39,382-__main__-DEBUG-第3个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDA4IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3Mzg4MzIsIm5iZiI6MTU2OTU2NjAzMn0.LgUyX96uzLsmWnMYLZxdTTYeyJiI7PJ4E19Lb9JHnjE",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 14:33:39,386-__main__-INFO-第3接口测试失败
+2019-09-27 14:33:39,455-__main__-DEBUG-第4个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 14:33:39,458-__main__-ERROR-第4接口测试通过
+2019-09-27 14:33:39,540-__main__-DEBUG-第5个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 14:33:39,543-__main__-ERROR-第5接口测试通过
+2019-09-27 14:33:39,607-__main__-DEBUG-第6个接口的返回结果为：{
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-27 14:33:39,611-__main__-ERROR-第6接口测试通过
+2019-09-27 14:37:33,304-__main__-DEBUG-第1个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDEyIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3MzkwNjYsIm5iZiI6MTU2OTU2NjI2Nn0.Sq4lE5TrQ-D2lbxwDZ3sOQO45f_l6DsyexTF342I4xc",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 14:37:33,322-__main__-ERROR-第1接口测试通过
+2019-09-27 14:37:33,459-__main__-DEBUG-第2个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDEzIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3MzkwNjYsIm5iZiI6MTU2OTU2NjI2Nn0.JHMuZ3u0NePszDx9F0DJveHUqp_QQ2uEz-NQw5vDUnY",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 14:37:33,469-__main__-ERROR-第2接口测试通过
+2019-09-27 14:37:33,646-__main__-DEBUG-第3个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDE0IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3MzkwNjYsIm5iZiI6MTU2OTU2NjI2Nn0.Jr1lMZIBIj0l7QBVKwbCR1fqXYC3GOY4yCGTAmLyIFc",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 14:37:33,656-__main__-INFO-第3接口测试失败
+2019-09-27 14:37:33,712-__main__-DEBUG-第4个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 14:37:33,721-__main__-ERROR-第4接口测试通过
+2019-09-27 14:37:33,795-__main__-DEBUG-第5个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 14:37:33,808-__main__-ERROR-第5接口测试通过
+2019-09-27 14:37:33,866-__main__-DEBUG-第6个接口的返回结果为：{
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-27 14:37:33,879-__main__-ERROR-第6接口测试通过
+2019-09-27 15:07:19,422-__main__-DEBUG-第1个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDE4IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA4NTIsIm5iZiI6MTU2OTU2ODA1Mn0.TbUNOei7Ts8ZsJdqSSTHv_sf_LB22IzzREzu7oe1bRI",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:07:19,426-__main__-ERROR-第1接口测试通过
+2019-09-27 15:07:19,559-__main__-DEBUG-第2个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDE5IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA4NTMsIm5iZiI6MTU2OTU2ODA1M30.OenJZQ6Ng00V6sW-36ZBJqUW0jNp7hwbQu9MqT-m7NI",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:07:19,562-__main__-ERROR-第2接口测试通过
+2019-09-27 15:07:19,712-__main__-DEBUG-第3个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDIwIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA4NTMsIm5iZiI6MTU2OTU2ODA1M30.uhWQozssBVeqyeLLpvyb4okFbsQJSTbpftdvDMPkfUw",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:07:19,716-__main__-INFO-第3接口测试失败
+2019-09-27 15:07:19,776-__main__-DEBUG-第4个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 15:07:19,780-__main__-ERROR-第4接口测试通过
+2019-09-27 15:07:19,848-__main__-DEBUG-第5个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 15:07:19,852-__main__-ERROR-第5接口测试通过
+2019-09-27 15:07:19,899-__main__-DEBUG-第6个接口的返回结果为：{
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-27 15:07:19,902-__main__-ERROR-第6接口测试通过
+2019-09-27 15:07:58,520-__main__-DEBUG-第1个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDI0IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA4OTIsIm5iZiI6MTU2OTU2ODA5Mn0.6aG36b867F6bt6ADjwMIuETcDg-ExQONOPU4A_8xxBg",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:07:58,537-__main__-ERROR-第1接口测试通过
+2019-09-27 15:07:58,685-__main__-DEBUG-第2个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDI1IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA4OTIsIm5iZiI6MTU2OTU2ODA5Mn0.orjXLcakG4ww3SWuiN8SHU7KI216mT2kmq7CfDqniKk",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:07:58,692-__main__-ERROR-第2接口测试通过
+2019-09-27 15:07:58,869-__main__-DEBUG-第3个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDI2IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA4OTIsIm5iZiI6MTU2OTU2ODA5Mn0.NDSJykCMKw3RkxjjS49y_nyoIVa_KnAoiHXfJ-9DFr4",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:07:58,876-__main__-INFO-第3接口测试失败
+2019-09-27 15:07:58,957-__main__-DEBUG-第4个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 15:07:58,971-__main__-ERROR-第4接口测试通过
+2019-09-27 15:07:59,069-__main__-DEBUG-第5个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 15:07:59,078-__main__-ERROR-第5接口测试通过
+2019-09-27 15:07:59,143-__main__-DEBUG-第6个接口的返回结果为：{
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-27 15:07:59,148-__main__-ERROR-第6接口测试通过
+2019-09-27 15:08:34,486-__main__-DEBUG-第1个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDMwIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA5MjgsIm5iZiI6MTU2OTU2ODEyOH0.b8wWrMnR1hk7w79hfeU7SsBpw0yYnpfXiriQDgUxL8M",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:08:34,498-__main__-ERROR-第1接口测试通过
+2019-09-27 15:08:34,642-__main__-DEBUG-第2个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDMxIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA5MjgsIm5iZiI6MTU2OTU2ODEyOH0.4gEE5IaFe3713zULl1SqKowoITVAlFzaj6ELkjCpQNY",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:08:34,654-__main__-ERROR-第2接口测试通过
+2019-09-27 15:08:34,774-__main__-DEBUG-第3个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDMyIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA5MjgsIm5iZiI6MTU2OTU2ODEyOH0._7maUmUliXV-zFJG5yxouLppAVq3YirwZChFZUFsO-g",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:08:34,780-__main__-INFO-第3接口测试失败
+2019-09-27 15:08:34,848-__main__-DEBUG-第4个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 15:08:34,852-__main__-ERROR-第4接口测试通过
+2019-09-27 15:08:34,920-__main__-DEBUG-第5个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 15:08:34,923-__main__-ERROR-第5接口测试通过
+2019-09-27 15:08:34,972-__main__-DEBUG-第6个接口的返回结果为：{
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-27 15:08:34,975-__main__-ERROR-第6接口测试通过
+2019-09-27 15:08:35,127-__main__-DEBUG-第1个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDM2IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA5MjgsIm5iZiI6MTU2OTU2ODEyOH0.KQMyc1o1NxPUP-FxsCbiIS1fbvr6Bg2oKtPHgs5Jp1A",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:08:35,131-__main__-ERROR-第1接口测试通过
+2019-09-27 15:08:35,282-__main__-DEBUG-第2个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDM3IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA5MjgsIm5iZiI6MTU2OTU2ODEyOH0.DlGZEfj7Vk4EaJQhJRTTy6hcIF8djmvbUSMksnxQRZ4",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:08:35,286-__main__-ERROR-第2接口测试通过
+2019-09-27 15:08:35,486-__main__-DEBUG-第3个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDM4IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDA5MjksIm5iZiI6MTU2OTU2ODEyOX0.PqgfypVX8RRB1ecYIsP688zDbPoYRIUxBtzdEdd718w",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 15:08:35,496-__main__-INFO-第3接口测试失败
+2019-09-27 15:08:35,572-__main__-DEBUG-第4个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 15:08:35,577-__main__-ERROR-第4接口测试通过
+2019-09-27 15:08:35,664-__main__-DEBUG-第5个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 15:08:35,670-__main__-ERROR-第5接口测试通过
+2019-09-27 15:08:35,727-__main__-DEBUG-第6个接口的返回结果为：{
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-27 15:08:35,732-__main__-ERROR-第6接口测试通过
+2019-09-27 16:07:00,128-__main__-DEBUG-第1个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDQyIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDQ0MzMsIm5iZiI6MTU2OTU3MTYzM30.Qs04M0ef3lGEsi1dB42pPZRaqZPrIdGm5HHfAG_MKik",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 16:07:00,134-__main__-ERROR-第1接口测试通过
+2019-09-27 16:07:00,308-__main__-DEBUG-第2个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDQzIiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDQ0MzMsIm5iZiI6MTU2OTU3MTYzM30.BkqU3t4UqZ5fNN0hpaDQRs0svG67irAWU-7qQXmJ2S4",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 16:07:00,322-__main__-ERROR-第2接口测试通过
+2019-09-27 16:07:00,491-__main__-DEBUG-第3个接口的返回结果为：{
+  "code": "0",
+  "data": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyTmFtZSI6ImFkbWluIiwidXNlcklkIjoiMTAxNyIsImxvZ2luSWQiOiIyMDAwMDEyNDQ0IiwiaXNzIjoid3d3LnVzc2NpdHkuY29tIiwiYXVkIjoidXQudXNzY2l0eS5jb20iLCJleHAiOjE1Njk3NDQ0MzQsIm5iZiI6MTU2OTU3MTYzNH0.p0O2NdGR9pAU_jT1deAIWFuLELly-CuNVPFbuSHCIwg",
+    "expires_in": 172800,
+    "token_type": "bearer",
+    "username": "超级管理员"
+  },
+  "msg": "OK",
+  "paramMap": {}
+}
+2019-09-27 16:07:00,497-__main__-INFO-第3接口测试失败
+2019-09-27 16:07:00,563-__main__-DEBUG-第4个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 16:07:00,570-__main__-ERROR-第4接口测试通过
+2019-09-27 16:07:00,643-__main__-DEBUG-第5个接口的返回结果为：{
+  "code": "2001",
+  "data": null,
+  "msg": "用户或者密码不正确",
+  "paramMap": {}
+}
+2019-09-27 16:07:00,647-__main__-ERROR-第5接口测试通过
+2019-09-27 16:07:00,694-__main__-DEBUG-第6个接口的返回结果为：{
+  "code": "2002",
+  "data": null,
+  "msg": "错误的客户端",
+  "paramMap": {}
+}
+2019-09-27 16:07:00,704-__main__-ERROR-第6接口测试通过
